@@ -110,6 +110,12 @@ The model achieves strong performance:
 * F1-score: **0.88**
 
 ---
+## 🔍 Key Insights
+
+- TF-IDF effectively highlights important words while reducing noise  
+- Naive Bayes performs well on high-dimensional sparse text data  
+- Increasing dataset size improves model performance and generalization
+---
 
 ## 📉 Visualizations
 
