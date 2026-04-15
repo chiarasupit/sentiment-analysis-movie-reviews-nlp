@@ -18,3 +18,18 @@ This project implements a Natural Language Processing (NLP) pipeline to classify
 - Matplotlib
 
 ## 📂 Project Structure
+├── main.py # Main NLP pipeline
+├── matrix.py # Confusion matrix visualization
+├── acc_dsize.py # Dataset size vs accuracy plot
+├── README.md
+└── requirements.txt
+
+## 📊 Dataset
+- Stanford Large Movie Review Dataset (IMDb)
+- 50,000 labeled reviews (balanced dataset)
+
+## ⚙️ How to Run
+
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
