@@ -115,19 +115,11 @@ The model achieves strong performance:
 
 ### Confusion Matrix
 
-(Add your image here after uploading)
-
-```
 ![Confusion Matrix](images/confusion_matrix.png)
-```
 
 ### Accuracy vs Dataset Size
 
-(Add your image here after uploading)
-
-```
 ![Accuracy Plot](images/accuracy_plot.png)
-```
 
 ---
 
